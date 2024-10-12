@@ -1,6 +1,6 @@
 
 
-# Weather App [Live](https://weather-application-byakansha.vercel.app/)
+# Weather App [Live](https://akansha08080.github.io/Weather-Application/)
 
 A simple weather application that provides current weather information based on the user's location or a city they search for. The app uses the OpenWeatherMap API to fetch real-time weather data such as temperature, humidity, wind speed, and cloudiness.
 
