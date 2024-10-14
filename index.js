@@ -164,6 +164,6 @@ async function fetchSearchWeatherInfo(city) {
         renderWeatherInfo(data);
     }
     catch(err) {
-        //hW
+        alert("City Not Found. Maybe Spelling Mistake.")
     }
 }
